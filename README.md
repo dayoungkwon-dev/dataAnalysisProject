@@ -1,1 +1,3 @@
-# dataAnalysisProject
+# python 데이터 분석 프로젝트
+
+# 기간 : 2023.11.22 ~ 2023.11.28
